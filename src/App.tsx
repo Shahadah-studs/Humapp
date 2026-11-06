@@ -174,8 +174,6 @@ export default function App() {
       <footer className="max-w-6xl w-full mx-auto border-t border-white/10 pt-4 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-slate-500">
         <p>© 2026 Copyright Humapp Project - Shahadah Studios Elite | Designed for the Presage SmartSpectra SDK Challenge.</p>
         <div className="flex gap-4">
-          <a href="#" className="hover:text-slate-300 transition-colors">Privacy Framework</a>
-          <a href="#" className="hover:text-slate-300 transition-colors">Presage SmartSpectra Core</a>
         </div>
       </footer>
     </div>
