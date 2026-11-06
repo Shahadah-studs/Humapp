@@ -64,7 +64,7 @@ export default function App() {
               <Camera className="w-5 h-5 text-cyan-400" /> Biometric Video Sensor
             </h2>
             <p className="text-sm text-slate-400 leading-relaxed">
-              Humapp handles your camera stream to isolate raw physiological signals using photoplethysmography (rPPG). No video feeds are recorded or leaves your browser.
+              Humapp uses your camera to extract your physiological signals. Your video data remains private and never leaves your browser.
             </p>
           </div>
 
@@ -88,7 +88,7 @@ export default function App() {
               <div className="absolute top-2 left-2 flex items-center gap-1.5 bg-black/60 px-2 py-0.5 rounded-full text-[10px] text-emerald-400 tracking-wider uppercase font-semibold">
                 <span className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-ping" /> Analyzing Stream
               </div>
-              <p className="text-xs text-slate-500 text-center px-4">[ Simulating isolated client-side camera data matrix ]</p>
+              <p className="text-xs text-slate-500 text-center px-4">[ Simulating isolated client-side camera data stuff]</p>
             </div>
           )}
 
